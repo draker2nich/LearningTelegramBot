@@ -1,4 +1,4 @@
-# История Беларуси Telegram-бот (Russian)
+# История Беларуси Telegram-бот 
 
 ## Описание
 Телеграм-бот для подготовки к экзамену по истории Беларуси. Интерактивная система с тестированием знаний, учебными материалами и статистикой прогресса, идеально подходящая для студентов и школьников.
@@ -45,7 +45,7 @@
 
 ---
 
-# Belarus History Telegram Bot (English)
+# Belarus History Telegram Bot
 
 ## Description
 A Telegram bot for preparing for the Belarus history exam. An interactive system with knowledge testing, educational materials, and progress statistics, ideal for students.
