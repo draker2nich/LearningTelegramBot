@@ -1,0 +1,36 @@
+{
+    "5206495851": [
+        {
+            "time": "14:28",
+            "events_count": 1,
+            "figures_count": 1
+        }
+    ],
+    "1418488792": [
+        {
+            "time": "07:05",
+            "events_count": 1,
+            "figures_count": 1
+        },
+        {
+            "time": "07:15",
+            "events_count": 1,
+            "figures_count": 1
+        },
+        {
+            "time": "7:30",
+            "events_count": 1,
+            "figures_count": 1
+        },
+        {
+            "time": "07:40",
+            "events_count": 1,
+            "figures_count": 1
+        },
+        {
+            "time": "07:50",
+            "events_count": 1,
+            "figures_count": 1
+        }
+    ]
+}
